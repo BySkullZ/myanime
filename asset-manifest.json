@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b58f2c8.css",
+    "main.js": "/static/js/main.a22109e3.js",
+    "static/js/787.7f2bfe61.chunk.js": "/static/js/787.7f2bfe61.chunk.js",
+    "static/media/banner.mp4": "/static/media/banner.6d4af5c0c7f7c5c397e4.mp4",
+    "static/media/myanime.png": "/static/media/myanime.f2c9fdff19644bd81fa0.png",
+    "static/media/banner.png": "/static/media/banner.59c77ea6d6089c31a90f.png",
+    "static/media/login_background.png": "/static/media/login_background.b413de76b5f3937fe2ca.png",
+    "index.html": "/index.html",
+    "main.6b58f2c8.css.map": "/static/css/main.6b58f2c8.css.map",
+    "main.a22109e3.js.map": "/static/js/main.a22109e3.js.map",
+    "787.7f2bfe61.chunk.js.map": "/static/js/787.7f2bfe61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b58f2c8.css",
+    "static/js/main.a22109e3.js"
+  ]
+}
